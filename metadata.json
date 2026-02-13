@@ -1,0 +1,7 @@
+{
+  "name": "Administrasi Guru Raudlatul Ulum",
+  "description": "Sistem administrasi pendidikan terpadu untuk guru RAUDLATUL ULUM dengan fitur manajemen santri, nilai, absensi, dan cetak raport otomatis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
